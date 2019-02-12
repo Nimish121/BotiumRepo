@@ -1,0 +1,7 @@
+<suite allow-return-values="true" name="Suite1" verbose="1"  >
+  <test name="Regression1"   >
+    <packages>
+   	  <package name="com.nagarro.test"/>
+   </packages>
+ </test>
+</suite>
