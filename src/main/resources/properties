@@ -1,8 +1,8 @@
-jiraUrl=https://jira.nagarro.com/
-jiraUserName=nimishkumar
-jiraPassword=Pistol@987
-projectKey=CLICD
-issueType=Bug
+jiraUrl=
+jiraUserName=
+jiraPassword=
+projectKey=
+issueType=
 severity=customfield_10015
 defectCause=customfield_10023
 defectedPhase=customfield_28741
